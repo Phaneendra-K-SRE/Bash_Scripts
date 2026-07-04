@@ -4,6 +4,6 @@
 
 for file in eswar darling mirchi salaar
 do
-  touch "$file.txt"
+   rm -rf "$file.txt"
    echo "Files created: $file.txt"
 done
