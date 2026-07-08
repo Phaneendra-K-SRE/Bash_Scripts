@@ -7,4 +7,5 @@ counter=10
 while (( counter-- ))
 do
   echo "Blast off"
-done 
+  
+done
